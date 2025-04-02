@@ -1,1 +1,1 @@
-nginx:latest
+apache/kafka:4.0.0
