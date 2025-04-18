@@ -3,3 +3,4 @@ obsidiandynamics/kafdrop
 redis:7.4.2
 mysql:9.2.0
 zookeeper:3.9
+jiashiwen/redissyncer:3.3.3
