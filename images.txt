@@ -5,3 +5,5 @@ mysql:9.2.0
 zookeeper:3.9
 jiashiwen/redissyncer:3.3.3
 bitnami/postgresql:14
+postgres:14
+
